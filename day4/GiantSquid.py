@@ -1,6 +1,6 @@
 import numpy as numpy
 
-paths = ["day3_test.txt", "day3.txt"]
+paths = ["day4_test.txt", "day4.txt"]
 
 
 def main():
